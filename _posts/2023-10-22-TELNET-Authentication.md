@@ -10,7 +10,6 @@ tags: [network, ftp, ctf]
 ![Telnet Stockpic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.idgesg.net%2Fimages%2Farticle%2F2018%2F03%2Fnetwork-connections-100751906-large.jpg&f=1&nofb=1&ipt=712568af04755d196f5a240b503e4ecafa9489f0755ddb2f93c0c43ba71aee13&ipo=images)
 *Source: https://www.networkworld.com/article/3262045/checking-your-network-connections-on-linux.html*
 <br>
-<br>
 
 [TELNET - Authentication](https://www.root-me.org/en/Challenges/Network/TELNET-authentication)
 
