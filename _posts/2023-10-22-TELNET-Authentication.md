@@ -1,6 +1,6 @@
 ---
 title: Root Me TELNET-Authentication Walkthrough
-date: 2023-10-22 00:15:00 +0000
+date: 2023-10-22 00:00:00 +0100
 categories: [rootme, walkthrough]
 tags: [network, ftp, ctf]
 ---
