@@ -26,12 +26,12 @@ A .pcap (short for packet capture) file is a file format used for storing networ
 ---
 
 Open the .pcap file in your desired workspace using Wireshark. It should look like this:
-![Wireshark Capture Ch1](\assets\img\FTP-Ch1.png) 
+![Wireshark Capture Ch1](/assets/img/FTP-Ch1.png) 
 
 
 Now you can filter for specific packets using the filter bar. We filter for *ftp* packets. You should easily spot the password in the listed packets:
 
-![Wireshark Capture Ch1](\assets\img\FTP-Ch1_2.png)
+![Wireshark Capture Ch1](/assets/img/FTP-Ch1_2.png)
 
 
 **Solution: c------0**
