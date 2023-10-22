@@ -5,7 +5,6 @@ categories: [rootme, walkthrough]
 tags: [network, ftp, ctf]
 ---
 
-# Root Me FTP-Authentication Walkthrough
 ![FTP Stockpic](https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2020/08/what-is-ftp-feature.jpg)
 *Source: https://www.makeuseof.com/what-is-ftp-server/* <br> 
 
