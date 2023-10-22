@@ -33,7 +33,7 @@ The password for the next level is stored in a file called readme located in the
 
 ## Walkthrough
 
-Again pretty straightforward. Use *ls* to see which files are in the directory then use *cat* to output the contains of readme:
+Once again, this is rather straightforward. Begin by employing the 'ls' command to peruse the contents of the directory, and then proceed to employ the 'cat' command to display the content of the 'readme' file, as follows
 ![OTWLevel1](/assets/img/OTW-L1-1.png)
 
 **Solution: N---------------------------------L**
