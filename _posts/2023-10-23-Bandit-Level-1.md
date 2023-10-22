@@ -1,6 +1,6 @@
 ---
 title: OverTheWire Bandit Level 0 Walkthrough
-date: 2023-10-21 13:00:00 +0000
+date: 2023-10-23 13:00:00 +0000
 categories: [OverTheWire, walkthrough]
 tags: [network, ssh, wargames]
 ---
