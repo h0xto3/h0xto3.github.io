@@ -1,14 +1,17 @@
 ---
 title: OverTheWire Bandit Level 0 Walkthrough
+excerpt: This is my post description
 date: 2023-10-23 13:00:00 +0000
-categories: [OverTheWire]
+categories: [OverTheWire, Bandit]
 tags: [network, ssh, wargames, linux]
+image:
+    path: https://overthewire.org/img/domokitten.png
+    alt: Image from https://overthewire.org
 ---
-![OverTheWireBanit](https://overthewire.org/img/domokitten.png)
 
 [Banit Level 1](https://overthewire.org/wargames/bandit/bandit1.html) <br><br>
 
-## Level Goal
+## Level 1 Goal
 
 The password for the next level is stored in a file called - located in the home directory
 

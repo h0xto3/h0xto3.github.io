@@ -1,13 +1,15 @@
 ---
 title: OverTheWire Bandit Level 0 Walkthrough
-date: 2023-10-22 13:00:00 +0000
-categories: [OverTheWire]
+excerpt: This is my post description
+date: 2023-10-22 20:00:00 +0000
+categories: [OverTheWire, Bandit]
 tags: [network, ssh, wargames, linux]
+image:
+    path: https://overthewire.org/img/domokitten.png
+    alt: Image from https://overthewire.org
 ---
-![OverTheWireBanit](https://overthewire.org/img/domokitten.png)
 
 [Banit Level 0](https://overthewire.org/wargames/bandit/bandit0.html) <br><br>
-
 
 ## Level 0 Goal
 

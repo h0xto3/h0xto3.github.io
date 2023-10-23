@@ -1,12 +1,13 @@
 ---
 title: Root Me FTP-Authentication Walkthrough
-date: 2023-10-21 22:00:00 +0100
-categories: [rootme]
+excerpt: In this article, I shall guide you through the Root Me FTP-Authentication Challenge...
+date: 2023-10-20 20:00:00 +0000
+categories: [rootme, network]
 tags: [network, ftp, ctf]
+image:
+    path: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2020/08/what-is-ftp-feature.jpg)
+    alt: Image from https://www.makeuseof.com/what-is-ftp-server/
 ---
-
-![FTP Stockpic](https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2020/08/what-is-ftp-feature.jpg)
-*Source: https://www.makeuseof.com/what-is-ftp-server/* <br> 
 
 [FTP - Authentication](https://www.root-me.org/en/Challenges/Network/FTP-authentication)
 
