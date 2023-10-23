@@ -1,6 +1,6 @@
 ---
 title: OverTheWire Bandit Level 0 Walkthrough
-excerpt: This is my post description
+excerpt: In this article, I shall guide you through Level 0 of OverTheWire Bandit ...
 date: 2023-10-22 20:00:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [network, ssh, wargames, linux]
