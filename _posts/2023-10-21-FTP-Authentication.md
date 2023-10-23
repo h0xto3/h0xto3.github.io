@@ -1,7 +1,7 @@
 ---
 title: Root Me FTP-Authentication Walkthrough
 date: 2023-10-21 22:00:00 +0100
-categories: [rootme, walkthrough]
+categories: [rootme]
 tags: [network, ftp, ctf]
 ---
 

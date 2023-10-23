@@ -1,8 +1,8 @@
 ---
 title: OverTheWire Bandit Level 0 Walkthrough
 date: 2023-10-23 13:00:00 +0000
-categories: [OverTheWire, walkthrough]
-tags: [network, ssh, wargames]
+categories: [OverTheWire]
+tags: [network, ssh, wargames, linux]
 ---
 ![OverTheWireBanit](https://overthewire.org/img/domokitten.png)
 
