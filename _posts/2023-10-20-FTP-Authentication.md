@@ -5,7 +5,7 @@ date: 2023-10-20 20:00:00 +0000
 categories: [rootme, network]
 tags: [network, ftp, ctf]
 image:
-    path: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2020/08/what-is-ftp-feature.jpg)
+    path: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2020/08/what-is-ftp-feature.jpg
     alt: Image from https://www.makeuseof.com/what-is-ftp-server/
 ---
 
